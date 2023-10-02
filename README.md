@@ -15,3 +15,5 @@ PyBank Sources:
 PyPoll Sources:
 
 1. https://datagy.io/python-get-dictionary-key-with-max-value/
+
+2. https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary
